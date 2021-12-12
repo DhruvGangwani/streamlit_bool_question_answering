@@ -12,6 +12,12 @@ For NLP, it is very difficult to recognize the final subject, "z" in this case.
 
 BoolQ is answer to such problem statements.
 
+Question can be raised such as: 
+```
+is it z ??
+```
+Which will yield "Yes" as result while "No" for x and y.
+
 Streamlit is used to create a web app. It is basically used as python library.
 
 ## To invoke:
